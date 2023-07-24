@@ -1,4 +1,4 @@
-// first install required node modules "npm i"
+//Make sure you have installed all the dependencies with "npm i".
 import inquirer from "inquirer";
 import qr from "qr-image";
 import fs, { writeFile } from "fs";
